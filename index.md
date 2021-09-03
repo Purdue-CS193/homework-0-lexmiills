@@ -17,7 +17,7 @@ Syntax highlighted code block
 - Class starts late
 - Instructors are nice
 
-1. Numberedd
+1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
